@@ -3350,7 +3350,7 @@
     },
     "client_dll": {
         "dwCSGOInput": "0x1A92F30",
-        "dwEntityList": "0x1A1F670",
+        "dwEntityList": "0x19F7F00",
         "dwGameEntitySystem": "0x1B43EB8",
         "dwGameEntitySystem_highestEntityIndex": "0x20F0",
         "dwGameRules": "0x1A840B0",
